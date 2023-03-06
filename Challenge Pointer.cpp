@@ -2,7 +2,7 @@
 
 int main(){
 	
-//& untuk menandakan alamat
+//& untuk menandakan alamat dan pointer
 
 	
 	int arr[10];
